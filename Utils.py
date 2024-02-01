@@ -129,7 +129,7 @@ def retrieve_SP_time_date(state_park):
         return final_df
 
 """
-Retrieve data from Wikipedia
+Retrieve data from wikipedia.org
 """
 #Helper function
 #Retrieve the State Parks table from wiki
