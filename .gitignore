@@ -1,6 +1,5 @@
 *.DS_Store
 __pycache__/
-Data_scraping_prototyping.ipynb
 Cleaned_data/
 Raw_data
 .vscode/
